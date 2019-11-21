@@ -1,0 +1,13 @@
+#nprogress .bar {
+  height: 4px !important;
+}
+/* creating large space in editor area */
+.ql-editor {
+  min-height: 300px;
+}
+
+.featured-image {
+  width: 100%;
+  max-height: 500px;
+  object-fit: cover;
+}
