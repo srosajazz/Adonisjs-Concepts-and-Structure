@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/sergiorosa_local/Desktop/course-java/.metadata/.plugins/org.eclipse.jdt.core
+1277319819.index
+1891193769.index
